@@ -1,0 +1,6 @@
+{
+  "name": "Social Networks - Impulsione suas Redes",
+  "description": "Plataforma de alta conversão para engajamento em redes sociais com Checkout Pix imediato e Painel Administrativo em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
